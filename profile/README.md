@@ -1,6 +1,8 @@
-<a href="https://pubb.io">
-  <img src="https://pubb.io/brand/og.png" alt="pubb — Realtime infrastructure for connected apps" width="1200" />
-</a>
+<p align="center">
+  <a href="https://pubb.io">
+    <img src="https://pubb.io/brand/og.png" alt="pubb — Realtime infrastructure for connected apps" width="420" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://pubb.io">Website</a> ·
